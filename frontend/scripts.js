@@ -1,4 +1,6 @@
 // helpful link for converting image to base64: https://elmah.io/tools/base64-image-encoder/
+/*jshint esversion: 6*/
+/*jshint esversion: 8*/
 async function apiFetch(url) {
     const response = await fetch(url);
     const data = await response.json();

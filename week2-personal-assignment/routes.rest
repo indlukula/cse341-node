@@ -1,12 +1,12 @@
 // LOCALHOST
 ###
-GET http://localhost:8080/contacts
+GET http://localhost:8080/week2-personal-assignment/contacts
 ###
-GET http://localhost:8080/contacts/63c612160dffb32b5b1ca66a
+GET http://localhost:8080/week2-personal-assignment/contacts/63c612160dffb32b5b1ca66a
 ###
-GET http://localhost:8080/contacts/63c612160dffb32b5b1ca66b
+GET http://localhost:8080/week2-personal-assignment/contacts/63c612160dffb32b5b1ca66b
 ###
-GET http://localhost:8080/contacts/63c612160dffb32b5b1ca66c
+GET http://localhost:8080/week2-personal-assignment/contacts/63c612160dffb32b5b1ca66c
 
 // PRODUCTION Deploy
 ###
